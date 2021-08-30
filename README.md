@@ -6,4 +6,4 @@
 
 - cd into the app like this `cd react-styledcomponents-starter-template`
 
-- run `yarn start` if you use yarn or `npm install` if you use npm to start the development server.
+- run `yarn start` if you use yarn or `npm start` if you use npm to start the development server.
