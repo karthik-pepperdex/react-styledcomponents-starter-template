@@ -1,3 +1,9 @@
+# Instructions to get started with this template
+
+- Download the template from github by cloning it using git or download the zip file and unzip it into the desired location.
+
+- You are now ready to use the template. You can rename the template or create another copy like this
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
